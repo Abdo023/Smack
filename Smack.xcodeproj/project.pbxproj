@@ -17,6 +17,7 @@
 		151B94131F4D8E6F00A8A2CE /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151B94121F4D8E6F00A8A2CE /* ChatVC.swift */; };
 		151B94151F4D8E8300A8A2CE /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151B94141F4D8E8300A8A2CE /* ChannelVC.swift */; };
 		151B94161F4D921F00A8A2CE /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 151B940E1F4C9D3400A8A2CE /* SWRevealViewController.m */; };
+		15AA31471F4ECF52007386CB /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AA31461F4ECF52007386CB /* CreateAccountVC.swift */; };
 		F789612AAC6983076C97B434 /* Pods_Smack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9FB7DE3C4CEA336731DF86D /* Pods_Smack.framework */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +37,7 @@
 		151B940E1F4C9D3400A8A2CE /* SWRevealViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		151B94121F4D8E6F00A8A2CE /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		151B94141F4D8E8300A8A2CE /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		15AA31461F4ECF52007386CB /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		45F46A829C4E8EF5BCDCE148 /* Pods-Smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.debug.xcconfig"; sourceTree = "<group>"; };
 		E9FB7DE3C4CEA336731DF86D /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -111,6 +113,7 @@
 				151B94121F4D8E6F00A8A2CE /* ChatVC.swift */,
 				151B94141F4D8E8300A8A2CE /* ChannelVC.swift */,
 				150589371F4DD33E00894652 /* LoginVC.swift */,
+				15AA31461F4ECF52007386CB /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				151B94151F4D8E8300A8A2CE /* ChannelVC.swift in Sources */,
 				151B94131F4D8E6F00A8A2CE /* ChatVC.swift in Sources */,
+				15AA31471F4ECF52007386CB /* CreateAccountVC.swift in Sources */,
 				150589381F4DD33E00894652 /* LoginVC.swift in Sources */,
 				150589331F4D966A00894652 /* GradientView.swift in Sources */,
 				151B94161F4D921F00A8A2CE /* SWRevealViewController.m in Sources */,
